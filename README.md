@@ -27,4 +27,21 @@ A simple weather forecast and alert website that allows users to get current wea
 1. Clone the repository:
    ```bash
    git clone https://github.com/priyanshjain9414/Weather-app.git
-   cd Weather-app
+
+2. Install the required dependencies:
+   ```bash
+   npm install axios express
+   
+3. Replace YOUR_API_KEY with your actual WeatherAPI key.
+
+## Usage
+1. Open the index.html file in your web browser.
+2. Enter the name of a city in the input field.
+3. Click the "Get Weather" button to retrieve the current weather for that city.
+4. If the city is found, the weather information will be displayed. If not, an error message will be shown.
+
+## API Key
+To use the WeatherAPI, you need to sign up at WeatherAPI and obtain an API key. Insert your key into the server.js file as instructed above.
+
+## Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
