@@ -126,11 +126,12 @@ git push origin feature-name
 
 ---
 
-##  Author
+## Author
 
-**Priyansh Jain**  
-  **Connect on GitHub:** [@priyanshjain9414](https://github.com/priyanshjain9414)
-  **Connect on E-mail:** priyanshjain903@gmail.com(mailto:priyanshjain903@gmail.com)
+Priyansh Jain  
+Connect on GitHub: [@priyanshjain9414](https://github.com/priyanshjain9414)  
+Connect on E-mail: [priyanshjain903@gmail.com](mailto:priyanshjain903@gmail.com)
+
 ---
 
-####  If you like this project, don’t forget to star the repo!
+#### If you like this project, don’t forget to star the repo!
