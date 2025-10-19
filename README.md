@@ -1,4 +1,4 @@
-#  Weather Forecast App
+#  Weather Forecast App   [Weather Forcast Live](https://weather-forecast-app-qzul.onrender.com/)
 
 A full-stack **Weather Forecast Web Application** that allows users to fetch and view **live weather updates** for any city around the world.  
 Built using **Node.js**, **Express**, and the **WeatherAPI**, it provides real-time temperature, humidity, wind speed, and more in a clean and responsive UI.
@@ -102,7 +102,7 @@ PORT=5000
 ---
 
 ## Live Link
-👉 [Live Demo](https://weather-forecast-app-demo.vercel.app/)
+👉 [Live Demo](https://weather-forecast-app-qzul.onrender.com/)
 
 ---
 
